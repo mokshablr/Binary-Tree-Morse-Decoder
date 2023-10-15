@@ -10,5 +10,4 @@ I have uploaded all my methods of implementation of the decoder in this repo.
 3. I then made the code to run on Arduino!
 
 The arduino model for this in [here](https://www.tinkercad.com/things/6K99E8GOJGd)!
-
-![model-diagram](image-1.png)
+![model-diagram](image.png)
